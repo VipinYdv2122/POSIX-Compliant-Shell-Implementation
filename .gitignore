@@ -1,0 +1,7 @@
+# Binaries
+my_shell
+myshell
+*.o
+
+# Shell history
+.myshell_history
